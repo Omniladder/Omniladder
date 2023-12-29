@@ -15,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 # My Projects
 -----------------------
 ## Computer Graphics
-![Triangulation Algorithm] (![image](https://github.com/Omniladder/Omniladder/assets/131387361/646552fc-a953-4309-833a-a9295bfdadea)
-)
+### Basic Triangulation Algorithm Via Ear Clipping
+(https://github.com/Omniladder/Omniladder/assets/131387361/646552fc-a953-4309-833a-a9295bfdadea)
