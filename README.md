@@ -10,3 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Dustin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Omniladder&custom_title=Dustin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+# My Projects
+-----------------------
+## Computer Graphics
+![Triangulation Algorithm] (![image](https://github.com/Omniladder/Omniladder/assets/131387361/646552fc-a953-4309-833a-a9295bfdadea)
+)
