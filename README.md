@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 -----------------------
 ## Computer Graphics
 ### Basic Triangulation Algorithm Via Ear Clipping
-<img src="https://github.com/Omniladder/Omniladder/assets/131387361/2cc10499-d6f6-412e-952e-579295329dec" alt="Triangulation_Screenshot" width="300" />
+<img src="https://github.com/Omniladder/Omniladder/assets/131387361/2cc10499-d6f6-412e-952e-579295329dec" alt="Triangulation_Screenshot" width="500" />
 
 
