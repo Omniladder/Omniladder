@@ -1,0 +1,123 @@
+# README TODO
+
+- [X] Write Out plans
+- [X] Find & Setup Markdown Viewer
+- [X] Find good reference README's
+- [X] Write out README Bullet points 
+
+- [ ] Create READMEs
+    - [ ] Home Page
+        - [ ] Banner 
+            - [ ] Photo
+            - [ ] Tagline
+            - [ ] Achievements
+            - [ ] Badges
+            - [ ] Table of Contents
+        - [ ] Description
+            - [ ] Accomplishments
+            - [ ] Jobs
+            - [ ] Education
+            - [ ] Contact
+        - [ ] Projects
+            - [ ] Web Development
+                - [ ] Chapp.
+                - [ ] Portfolio
+                - [ ] Testif.AI
+                - [ ] Flashcard Factory
+                - [ ] Resume.ai
+                - [ ] Celite
+            - [ ] Artificial Intelligence
+                - [ ] Websites
+                    - [ ] SaltCast Chatbot
+                    - [ ] Testif.AI
+                    - [ ] Flashcard Factory
+                    - [ ] Resume.ai
+                - [ ] Research
+                    - [ ] Attention Chess Bot
+                    - [ ] Pakistan Women Voters
+                    - [ ] Sports Classification
+                    - [ ] Distilled Tree of Thought
+                    - [ ] Salinity Markdown Document Generator
+            - [ ] DevOps/Linux
+                - [ ] Lambda Check
+                - [ ] Proxmox Server
+                - [ ] Arch Linux
+                - [ ] AWS Servers
+            - [ ] Mathematics
+                - [ ] Celite
+                - [ ] Taylor Series Vis.
+                - [ ] Approxmiations of Pi
+                - [ ] Graphics Library
+            - [ ] Misc.
+                - [ ] Flashcard Phone App
+                - [ ] Battleship Game
+                - [ ] Fifteen Puzzle
+                - [ ] Paralized Database
+                - [ ] Dots and Boxes Solver
+        - [ ] Statistics
+        - [ ] Future Plans & Ideas
+            - [ ] DevOps/Linux
+                - [ ] NixOS Setup
+                - [ ] Linux from Scratch
+                - [ ] Terraform Usage
+                - [ ] Github Actions & Gitlab
+                - [ ] Virtual Machines (VM)
+                - [ ] AWS Certified Cloud Developer
+                - [ ] Cypress
+            - [ ] Web Development
+                - [ ] Web Sockets
+                - [ ] .NET Framework
+                - [ ] WebAssembly
+                - [ ] Next.JS
+                - [ ] Redis
+                - [ ] GraphQL
+                - [ ] Serverless Architecture
+            - [ ] Mathematics
+                - [ ] New Graphics Library
+                - [ ] Full Manim Video
+                - [ ] Ramanujan Based Pi Calculation
+                - [ ] Chess Bot
+                - [ ] Cryptography
+            - [ ] Misc.
+                - [ ] Coding Paradigms
+                - [ ] Capture the Flag
+                - [ ] Assembly
+                - [ ] Git Clone
+                - [ ] Open Source Contributions
+        - [ ] Contact Me
+    - [X] Chapp.
+        - [X] Add MIT License
+        - [X] Github About Section
+        - [X] Add Github Topics
+        - [X] Add URL to Github itself
+        - [X] Banner
+            - [X] Logo
+            - [X] Tagline
+            - [X] Link
+            - [X] Badges
+                - [X] Shields.io Badges
+            - [X] Contributors
+            - [X] Table of Contents
+        - [X] Description
+        - [X] Features
+        - [X] Technologies
+        - [X] Images/Videos
+        - [X] Setup Guide
+        - [X] Future Plans
+        - [X] License
+        - [X] Tag then Publish than add V1 Version
+    - [ ] Testif.AI
+    - [ ] Lambda Check
+    - [ ] Flashcard Factory
+    - [ ] Chess Bot
+    - [ ] Portfolio Website
+    - [ ] Celite
+    - [ ] Flashcard App
+
+
+
+
+
+## What Belongs in a README
+
+
