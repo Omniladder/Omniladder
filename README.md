@@ -32,7 +32,14 @@ Hello, My name is Dustin O'Brien I'm a recent Computer Science & Data Science gr
 
 My previous jobs an AI Research Contract with my University in partnership with Horn Point Labatories where I worked on developing LLM pipelines with LangChain in this role I focused on backend development creating initial pipelines such as a chatbot and personally developeed a Markdown document generator to simplify and collect information from a large set of interview transcripts relating to Salt Concentration of Water. I have also worked as the Assistant to my universities System Adminstrator where I setup new computer labs as well as coding Pytorch based LLM benchmarks to be ran on Salisbury & UMBC High Performance Computer Systems. Lastly, I worked 2 tutoring postions as both a dedicated Computer Science tutor for the entire CS department course catalog and a Math & Computer Science tutor which included teaching Salisbury's entry level Math and Computer Science positions.
 
-**Feel Free to Contact me at**
+In my 4 years of Coding and 2 years of Software Development I have managed an impressive list of accomplishments including having won winning 2 hackathons
+
+- HenHack 2024 (Bank of America's Best Financial Hack) - Lambda Check
+- HackUMBC 2024 (Best Educational Hack & Second Best Overall Hack) - Testif.AI
+
+As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also was awarded as a Certified Cloud Practitioner by AWS via the AWS Skill builder program where I learned a lot of the fundamental services provided by the Amazon Cloud Provider. I am also a repeately been on Salisbury's Dean's List graduating with a final GPA of 3.608.
+
+### Feel Free to Contact me at
 
 - Email: [dustintobrien@gmail.com](mailto:dustintobrien@gmail.com)
 
@@ -40,6 +47,51 @@ My previous jobs an AI Research Contract with my University in partnership with 
 
 - Personal Website / Portfolio: [dustintobrien.com](https://dustintobrien.com)
 
-#
+# Projects
+
+
+### Web Development
+<details>
+    <summary>Web Dev Projects</summary>
+
+</details>
+
+### Artificial Intelligence
+<details>
+    <summary>Artificial Intelligence Projects</summary>
+    <details>
+        <summary>Websites</summary>
+
+    </details>
+    <details>
+        <summary>Research</summary>
+
+    </details>
+</details>
+
+
+
+### DevOps + Linux
+
+<details>
+    <summary>DevOps + Linux Projects</summary>
+
+</details>
+
+### Mathematics
+
+<details>
+    <summary>Mathematics Projects</summary>
+
+</details>
+
+### Miscellaneous
+
+<details>
+    <summary>Miscellaneous Projects</summary>
+
+</details>
+
+
 
 
