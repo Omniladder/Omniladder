@@ -10,14 +10,14 @@
         - [ ] Banner 
             - [X] Photo
             - [X] Tagline
-            - [ ] Achievements
-            - [ ] Badges
+            - [X] Achievements
+            - [X] Badges
             - [ ] Table of Contents
-        - [ ] Description
-            - [ ] Accomplishments
-            - [ ] Jobs
-            - [ ] Education
-            - [ ] Contact
+        - [X] Description
+            - [X] Accomplishments
+            - [X] Jobs
+            - [X] Education
+            - [X] Contact
         - [ ] Projects
             - [ ] Web Development
                 - [ ] Chapp.

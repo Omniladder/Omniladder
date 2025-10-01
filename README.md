@@ -53,7 +53,19 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
 ### Web Development
 <details>
     <summary>Web Dev Projects</summary>
-
+    <h3>Chapp.</h3>
+    <img src="./assets/chapp.png">
+    <a href="/Chapp">Link To Project</a>
+    <h3>Portfolio Site</h3>
+    <img src="./assets/portfolio.png">
+    <h3>Testif.AI</h3>
+    <img src="./assets/chapp.png">
+    <h3>Flashcard Factory</h3>
+    <img src="./assets/chapp.png">
+    <h3>Resume.AI</h3>
+    <img src="./assets/chapp.png">
+    <h3>Celite</h3>
+    <img src="./assets/celite.png">
 </details>
 
 ### Artificial Intelligence
