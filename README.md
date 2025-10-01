@@ -1,5 +1,5 @@
 # Dustin O'Brien
-<img src="./assets/dustin.png" width="500">
+<img src="./assets/dustin.png" width="400">
 
 <br>
 
