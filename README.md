@@ -34,9 +34,11 @@ My previous jobs an AI Research Contract with my University in partnership with 
 
 **Feel Free to Contact me at**
 
-Email: [dustintobrien@gmail.com](mailto:dustintobrien@gmail.com)
-Phone Number: [(240) 678-3366](tel:+12406783366)
-Personal Website / Portfolio: [dustintobrien.com](dustintobrien.com)
+- Email: [dustintobrien@gmail.com](mailto:dustintobrien@gmail.com)
+
+- Phone Number: [(240) 678-3366](tel:+12406783366)
+
+- Personal Website / Portfolio: [dustintobrien.com](https://dustintobrien.com)
 
 #
 
