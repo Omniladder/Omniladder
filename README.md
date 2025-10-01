@@ -55,7 +55,7 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
     <summary>Web Dev Projects</summary>
     <h3>Chapp.</h3>
     <img src="./assets/chapp.png">
-    <a href="/Chapp">Link To Project</a>
+    <a href="https://github.com/Omniladder/Chapp/">Link To Project</a>
     <h3>Portfolio Site</h3>
     <img src="./assets/portfolio.png">
     <h3>Testif.AI</h3>
