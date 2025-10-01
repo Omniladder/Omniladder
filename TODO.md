@@ -8,8 +8,8 @@
 - [ ] Create READMEs
     - [ ] Home Page
         - [ ] Banner 
-            - [ ] Photo
-            - [ ] Tagline
+            - [X] Photo
+            - [X] Tagline
             - [ ] Achievements
             - [ ] Badges
             - [ ] Table of Contents
