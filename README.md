@@ -58,14 +58,19 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
     <a href="https://github.com/Omniladder/Chapp/">Link To Project</a>
     <h3>Portfolio Site</h3>
     <img src="./assets/portfolio.png">
+    <a href="https://github.com/Omniladder/Portfolio_Website/">Link To Project</a>
     <h3>Testif.AI</h3>
-    <img src="./assets/chapp.png">
+    <img src="./assets/testifai.png">
+    <a href="https://github.com/SpencerPresley/TestifAI">Link To Project</a>
     <h3>Flashcard Factory</h3>
-    <img src="./assets/chapp.png">
+    <img src="./assets/flashcardfactory.png">
+    <a href="https://github.com/cbarbes1/HenHacks2025">Link To Project</a>
     <h3>Resume.AI</h3>
-    <img src="./assets/chapp.png">
+    <img src="./assets/resumai.png">
+    <a href="https://github.com/SpencerPresley/HoyaHacks2025">Link To Project</a>
     <h3>Celite</h3>
     <img src="./assets/celite.png">
+    <a href="https://github.com/ktranfaglia1/Celite/">Link To Project</a>
 </details>
 
 ### Artificial Intelligence
@@ -73,7 +78,15 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
 <summary>Artificial Intelligence Projects</summary>
 <details>
     <summary>Websites</summary>
-
+    <h3>Testif.AI</h3>
+    <img src="./assets/testifai.png">
+    <a href="https://github.com/SpencerPresley/TestifAI">Link To Project</a>
+    <h3>Flashcard Factory</h3>
+    <img src="./assets/flashcardfactory.png">
+    <a href="https://github.com/cbarbes1/HenHacks2025">Link To Project</a>
+    <h3>Resume.AI</h3>
+    <img src="./assets/resumai.png">
+    <a href="https://github.com/SpencerPresley/HoyaHacks2025">Link To Project</a>
 </details>
 
 <details>
