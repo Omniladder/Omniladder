@@ -58,15 +58,16 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
 
 ### Artificial Intelligence
 <details>
-    <summary>Artificial Intelligence Projects</summary>
-    <details>
-        <summary>Websites</summary>
+<summary>Artificial Intelligence Projects</summary>
+<details>
+    <summary>Websites</summary>
 
-    </details>
-    <details>
-        <summary>Research</summary>
+</details>
 
-    </details>
+<details>
+    <summary>Research</summary>
+
+</details>
 </details>
 
 
