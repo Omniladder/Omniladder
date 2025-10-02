@@ -99,16 +99,13 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
     <h3>Pakistan Women Voters</h3>
     <img src="./assets/pakistan.png">
     <a href="https://github.com/Omniladder/Pakistan_Elections">Link To Project</a>
-    <h3>Pakistan Women Voters</h3>
-    <img src="./assets/pakistan.png">
-    <a href="https://github.com/Omniladder/Pakistan_Elections">Link To Project</a>
     <h3>Sports Classification</h3>
     <img src="./assets/SportsClassfying.png">
     <a href="https://github.com/ktranfaglia1/SportClassification">Link To Project</a>
     <h3>Multi-modal ToT Reasoning Adapter</h3>
     <img src="./assets/reasoning.jpg">
     <h3>Salinity Markdown Doc. Generator</h3>
-    <img src="./assets/documentSummarizer.jpg">
+    <img src="./assets/documentSummarizer.png">
 </details>
 </details>
 
