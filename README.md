@@ -75,9 +75,11 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
 
 ### Artificial Intelligence
 <details>
-<summary>Artificial Intelligence Projects</summary>
+<summary>AI & ML Projects</summary>
 <details>
     <summary>Websites</summary>
+    <h3>Saltcast Chatbot</h3>
+    <img src="./assets/saltcast.png">
     <h3>Testif.AI</h3>
     <img src="./assets/testifai.png">
     <a href="https://github.com/SpencerPresley/TestifAI">Link To Project</a>
@@ -91,7 +93,22 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
 
 <details>
     <summary>Research</summary>
-
+     <h3>Attention Chess Bot</h3>
+    <img src="./assets/chessbot.png">
+    <a href="https://github.com/Omniladder/Attention_Chess_Bot">Link To Project</a>
+    <h3>Pakistan Women Voters</h3>
+    <img src="./assets/pakistan.png">
+    <a href="https://github.com/Omniladder/Pakistan_Elections">Link To Project</a>
+    <h3>Pakistan Women Voters</h3>
+    <img src="./assets/pakistan.png">
+    <a href="https://github.com/Omniladder/Pakistan_Elections">Link To Project</a>
+    <h3>Sports Classification</h3>
+    <img src="./assets/SportsClassfying.png">
+    <a href="https://github.com/ktranfaglia1/SportClassification">Link To Project</a>
+    <h3>Multi-modal ToT Reasoning Adapter</h3>
+    <img src="./assets/reasoning.jpg">
+    <h3>Salinity Markdown Doc. Generator</h3>
+    <img src="./assets/documentSummarizer.jpg">
 </details>
 </details>
 
@@ -101,21 +118,50 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
 
 <details>
     <summary>DevOps + Linux Projects</summary>
-
+    <h3>Lambda Check</h3>
+    <img src="./assets/haskell.jpeg">
+    <a href="https://github.com/Omniladder/Dustin_Lambda_Check">Link To Project</a>
+    <h3>Proxmox Server</h3>
+    <!--TODO: Get Screenshot of Proxmox Server-->
+    <!-- <img src="./assets/proxmox.png"> -->
+    <h3>Arch Linux</h3>
+    <img src="./assets/arch.png">
+    <h3>AWS Server Hosting</h3>
+    <img src="./assets/aws.png">
+    <a href="https://www.credly.com/badges/8cf1deed-daef-42fc-ba61-954070d82a20/public_url">Link To Certificate</a>
 </details>
 
 ### Mathematics
 
 <details>
     <summary>Mathematics Projects</summary>
-
+    <h3>Celite</h3>
+    <img src="./assets/celite.png">
+    <a href="https://github.com/ktranfaglia1/Celite/">Link To Project</a>
+    <h3>Taylor Series Visualization</h3>
+    <img src="./assets/taylorSeries.png">
+    <a href="https://github.com/Omniladder/TaylorSeriesVisualization">Link To Project</a>
+    <h3>Pi Approximation Calculators</h3>
+    <img src="./assets/piApprox.jpg">
+    <a href="https://github.com/Omniladder/Small-Projects">Link To Project</a>
 </details>
 
 ### Miscellaneous
 
 <details>
     <summary>Miscellaneous Projects</summary>
-
+    <h3>Flashcard App</h3>
+    <img src="./assets/Flashcard.png">
+    <a href="https://github.com/ncorcoran771/FlashcardApp">Link To Project</a>
+    <h3>Battleship Game</h3>
+    <img src="./assets/Battleship.png">
+    <a href="https://github.com/Omniladder/Battleship">Link To Project</a>
+    <h3>Parallized Database</h3>
+    <img src="./assets/db.jpg">
+    <a href="https://github.com/ktranfaglia1/QueryParser">Link To Project</a>
+    <h3>Dots and Boxes Solver</h3>
+    <img src="./assets/dotsnboxes.jpg">
+    <a href="https://github.com/Omniladder/Small-Projects/tree/master/dotsNBoxes">Link To Project</a>
 </details>
 
 

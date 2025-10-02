@@ -19,41 +19,39 @@
             - [X] Education
             - [X] Contact
         - [ ] Projects
-            - [ ] Web Development
-                - [ ] Chapp.
-                - [ ] Portfolio
-                - [ ] Testif.AI
-                - [ ] Flashcard Factory
-                - [ ] Resume.ai
-                - [ ] Celite
-            - [ ] Artificial Intelligence
-                - [ ] Websites
-                    - [ ] SaltCast Chatbot
-                    - [ ] Testif.AI
-                    - [ ] Flashcard Factory
-                    - [ ] Resume.ai
-                - [ ] Research
-                    - [ ] Attention Chess Bot
-                    - [ ] Pakistan Women Voters
-                    - [ ] Sports Classification
-                    - [ ] Distilled Tree of Thought
-                    - [ ] Salinity Markdown Document Generator
+            - [X] Web Development
+                - [X] Chapp.
+                - [X] Portfolio
+                - [X] Testif.AI
+                - [X] Flashcard Factory
+                - [X] Resume.ai
+                - [X] Celite
+            - [X] Artificial Intelligence
+                - [X] Websites
+                    - [X] SaltCast Chatbot
+                    - [X] Testif.AI
+                    - [X] Flashcard Factory
+                    - [X] Resume.ai
+                - [X] Research
+                    - [X] Attention Chess Bot
+                    - [X] Pakistan Women Voters
+                    - [X] Sports Classification
+                    - [X] Distilled Tree of Thought
+                    - [X] Salinity Markdown Document Generator
             - [ ] DevOps/Linux
-                - [ ] Lambda Check
-                - [ ] Proxmox Server
-                - [ ] Arch Linux
-                - [ ] AWS Servers
-            - [ ] Mathematics
-                - [ ] Celite
-                - [ ] Taylor Series Vis.
-                - [ ] Approxmiations of Pi
-                - [ ] Graphics Library
-            - [ ] Misc.
-                - [ ] Flashcard Phone App
-                - [ ] Battleship Game
-                - [ ] Fifteen Puzzle
-                - [ ] Paralized Database
-                - [ ] Dots and Boxes Solver
+                - [X] Lambda Check
+                - [X] Proxmox Server
+                - [X] Arch Linux
+                - [X] AWS Servers
+            - [X] Mathematics
+                - [X] Celite
+                - [X] Taylor Series Vis.
+                - [X] Approxmiations of Pi
+            - [X] Misc.
+                - [X] Flashcard Phone App
+                - [X] Battleship Game
+                - [X] Paralized Database
+                - [X] Dots and Boxes Solver
         - [ ] Statistics
         - [ ] Future Plans & Ideas
             - [ ] DevOps/Linux
