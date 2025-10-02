@@ -38,7 +38,7 @@
                     - [X] Sports Classification
                     - [X] Distilled Tree of Thought
                     - [X] Salinity Markdown Document Generator
-            - [ ] DevOps/Linux
+            - [X] DevOps/Linux
                 - [X] Lambda Check
                 - [X] Proxmox Server
                 - [X] Arch Linux
@@ -53,35 +53,35 @@
                 - [X] Paralized Database
                 - [X] Dots and Boxes Solver
         - [X] Statistics
-        - [ ] Future Plans & Ideas
-            - [ ] DevOps/Linux
-                - [ ] NixOS Setup
-                - [ ] Linux from Scratch
-                - [ ] Terraform Usage
-                - [ ] Github Actions & Gitlab
-                - [ ] Virtual Machines (VM)
-                - [ ] AWS Certified Cloud Developer
-                - [ ] Cypress
-            - [ ] Web Development
-                - [ ] Web Sockets
-                - [ ] .NET Framework
-                - [ ] WebAssembly
-                - [ ] Next.JS
-                - [ ] Redis
-                - [ ] GraphQL
-                - [ ] Serverless Architecture
-            - [ ] Mathematics
-                - [ ] New Graphics Library
-                - [ ] Full Manim Video
-                - [ ] Ramanujan Based Pi Calculation
-                - [ ] Chess Bot
-                - [ ] Cryptography
-            - [ ] Misc.
-                - [ ] Coding Paradigms
-                - [ ] Capture the Flag
-                - [ ] Assembly
-                - [ ] Git Clone
-                - [ ] Open Source Contributions
+        - [X] Future Plans & Ideas
+            - [X] DevOps/Linux
+                - [X] NixOS Setup
+                - [X] Linux from Scratch
+                - [X] Terraform Usage
+                - [X] Github Actions & Gitlab
+                - [X] Virtual Machines (VM)
+                - [X] AWS Certified Cloud Developer
+                - [X] Cypress
+            - [X] Web Development
+                - [X] Web Sockets
+                - [X] .NET Framework
+                - [X] WebAssembly
+                - [X] Next.JS
+                - [X] Redis
+                - [X] GraphQL
+                - [X] Serverless Architecture
+            - [X] Mathematics
+                - [X] New Graphics Library
+                - [X] Full Manim Video
+                - [X] Ramanujan Based Pi Calculation
+                - [X] Chess Bot
+                - [X] Cryptography
+            - [X] Misc.
+                - [X] Coding Paradigms
+                - [X] Capture the Flag
+                - [X] Assembly
+                - [X] Git Clone
+                - [X] Open Source Contributions
     - [X] Chapp.
         - [X] Add MIT License
         - [X] Github About Section

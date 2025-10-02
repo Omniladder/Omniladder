@@ -26,6 +26,18 @@
 
 # Table of Contents
 
+- [Description](#description)
+    - [Contact](#feel-free-to-contact-me-at)
+- [Projects](#Projects)
+    - [Web Development](#web-development)
+    - [Artificial Intelligence](#artificial-intelligence)
+    - [DevOps + Linux](#devops-linux)
+    - [Mathematics](#mathematics)
+    - [Misc.](#miscellaneous)
+- [Statisitics](#statisitics)
+- [Future Plans and Ideas](#future-plans-and-ideas)
+
+
 # Description
 
 Hello, My name is Dustin O'Brien I'm a recent Computer Science & Data Science graduate from Salisbury University with a focus in Software Engineering and Artificial Intelligence. With this knowledge I have developed a multiude of different AI applications, Websites, Research Projects and more. Outside of Computers I also enjoy Mathematics and Chess two topics which I have previously and plan to continue incorporate into my development as well as a desire to work with graphics and Linux.
@@ -198,7 +210,7 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
     - New Graphics Library
     - Full Manim Video
     - Ramanujan Based Pi Calculation
-    - Chess Bot
+    - Improved Chess Bot
     - Cryptography
 - Misc.
     - Coding Paradigms
