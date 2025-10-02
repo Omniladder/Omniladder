@@ -28,6 +28,7 @@
 
 - [Description](#description)
     - [Contact](#feel-free-to-contact-me-at)
+- [Technologies](#technologies)
 - [Projects](#Projects)
     - [Web Development](#web-development)
     - [Artificial Intelligence](#artificial-intelligence)
@@ -58,6 +59,57 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
 - Phone Number: [(240) 678-3366](tel:+12406783366)
 
 - Personal Website / Portfolio: [dustintobrien.com](https://dustintobrien.com)
+
+# Technologies
+
+- Frontend
+    - Vanilla
+        - HTML
+        - CSS
+        - JavaScript
+    - TailwindCSS
+    - React
+    - Next.JS
+    - Angular
+    - Typescript
+    - TailwindCSS
+    - npm
+- Backend
+    - Python
+    - JavaScript
+    - Typescript
+    - Node.JS
+    - Express.js
+    - FastAPI
+    - Sequelize
+    - Haskell
+    - Uvicorn
+    - Express Session
+- Artificial Intelligence
+    - Langchain
+    - Pytorch
+    - Scikit-learn
+    - Pandas
+    - Ollama
+    - Hugging Face
+    - Llama
+    - Matplotlib
+    - Seaborn
+    - Jupyter Notebook
+- DevOps
+    - Docker
+    - Docker Compose
+    - Jenkins
+    - Kubernetes / k8s
+    - AWS
+    - Nginx
+    - Git / Github
+- Linux
+    - Proxmox
+    - Arch
+    - Debian
+    - Ubuntu
+    - Fedora
 
 # Projects
 
