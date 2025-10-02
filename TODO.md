@@ -52,7 +52,7 @@
                 - [X] Battleship Game
                 - [X] Paralized Database
                 - [X] Dots and Boxes Solver
-        - [ ] Statistics
+        - [X] Statistics
         - [ ] Future Plans & Ideas
             - [ ] DevOps/Linux
                 - [ ] NixOS Setup
@@ -82,7 +82,6 @@
                 - [ ] Assembly
                 - [ ] Git Clone
                 - [ ] Open Source Contributions
-        - [ ] Contact Me
     - [X] Chapp.
         - [X] Add MIT License
         - [X] Github About Section

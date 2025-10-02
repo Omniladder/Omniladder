@@ -166,15 +166,44 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
 # Statisitics
 
 <p align="center">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=omniladder&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Dustin's Top Languages" width="40%" />
+  </p>
+<p align="center">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=omniladder&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Dustin's Github Stats" width="47%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=omniladder&theme=radical&border=7F3FBF&background=0D1117" alt="Dustin's GitHub Streak" width="50%" />
 </p>
    <p align="center">
           <img src="https://github-readme-activity-graph.vercel.app/graph?username=omniladder&custom_title=Dustin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Dustin's Graph" width="97%"/>
 </p>
-<p align="center">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=omniladder&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Dustin's Top Languages" width="40%" />
-  </p>
  
+# Future Plans and Ideas
 
+- DevOps/Linux
+    - NixOS Setup
+    - Linux from Scratch
+    - Terraform Usage
+    - Github Actions & Gitlab
+    - Virtual Machines (VM)
+    - AWS Certified Cloud Developer
+    - Cypress
+- Web Development
+    - Web Sockets
+    - .NET Framework
+    - WebAssembly
+    - Next.JS
+    - Redis
+    - GraphQL
+    - Serverless Architecture
+- Mathematics
+    - New Graphics Library
+    - Full Manim Video
+    - Ramanujan Based Pi Calculation
+    - Chess Bot
+    - Cryptography
+- Misc.
+    - Coding Paradigms
+    - Capture the Flag
+    - Assembly
+    - Git Clone
+    - Open Source Contributions
 
