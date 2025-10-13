@@ -217,8 +217,6 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
     <h3>Battleship Game</h3>
     <img src="./assets/Battleship.png">
     <a href="https://github.com/Omniladder/Battleship">Link To Project</a>
-    <h3>Git Clone (Wyag)</h3>
-    <a href="https://github.com/Omniladder/Small-Projects/tree/master/wyag">Link To Project</a>
     <h3>Parallized Database</h3>
     <img src="./assets/db.jpg">
     <a href="https://github.com/ktranfaglia1/QueryParser">Link To Project</a>
