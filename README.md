@@ -18,6 +18,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900)
 ![Learner](https://img.shields.io/badge/Always-Learning-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=omniladder&color=brightgreen&abbreviated=true)
 
 ### Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=omniladder&theme=radical&row=1&column=7" alt="Trophies" width="97%"/>
