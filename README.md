@@ -85,6 +85,7 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
     - Sequelize
     - Haskell
     - Uvicorn
+    - Redis
     - Express Session
 - Artificial Intelligence
     - Langchain
@@ -101,6 +102,7 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
     - Docker
     - Docker Compose
     - Jenkins
+    - Github Actions
     - Kubernetes / k8s
     - AWS
     - Nginx
@@ -247,7 +249,7 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
     - NixOS Setup
     - Linux from Scratch
     - Terraform Usage
-    - Github Actions & Gitlab
+    - Gitlab
     - Virtual Machines (VM)
     - AWS Certified Cloud Developer
     - Cypress
@@ -256,7 +258,6 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
     - .NET Framework
     - WebAssembly
     - Next.JS
-    - Redis
     - GraphQL
     - Serverless Architecture
 - Mathematics
