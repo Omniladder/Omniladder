@@ -105,12 +105,12 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
     - Github Actions
     - Kubernetes / k8s
     - AWS
-          - EC2
-          - Lambda
-          - S3
-          - RDS
-          - Elasticache
-          - Cloudfront
+      - EC2
+      - Lambda
+      - S3
+      - RDS
+      - Elasticache
+      - Cloudfront
     - Nginx
     - Git / Github
 - Linux
