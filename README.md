@@ -265,7 +265,6 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
     - WebAssembly
     - Next.JS
     - GraphQL
-    - Serverless Architecture
 - Mathematics
     - New Graphics Library
     - Full Manim Video
