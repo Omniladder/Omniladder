@@ -1,7 +1,7 @@
 # Dustin O'Brien
 <img src="./assets/dustin.png" width="400">
 
-"*Prospective Full-stack Software Engineer*"
+"*Junior Cloud Engineer at Strategic Business Services*"
 
 
 <!-- Core Frameworks -->
