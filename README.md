@@ -257,7 +257,7 @@ As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also
     - Terraform Usage
     - Gitlab
     - Virtual Machines (VM)
-    - AWS Certified Cloud Developer
+    - AWS Certified Cloud Architect
     - Cypress
 - Web Development
     - Web Sockets
