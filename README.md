@@ -52,6 +52,7 @@ Previously worked in **AI research in collaboration with Horn Point Laboratories
 * **HackUMBC 2024** – *Best Educational Hack & 2nd Best Overall* (Testif.AI)
 
 🎓 **B.S. Computer Science & Data Science – Salisbury University**
+
 ☁️ **AWS Certified Cloud Practitioner**
 
 
