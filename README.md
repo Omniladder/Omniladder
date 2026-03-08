@@ -42,16 +42,18 @@
 
 # Description
 
-Hello, My name is Dustin O'Brien I'm a recent Computer Science & Data Science graduate from Salisbury University with a focus in Software Engineering and Artificial Intelligence. With this knowledge I have developed a multiude of different AI applications, Websites, Research Projects and more. Outside of Computers I also enjoy Mathematics and Chess two topics which I have previously and plan to continue incorporate into my development as well as a desire to work with graphics and Linux.
+Junior Cloud Engineer at **Strategic Business Systems** working on the **U.S. Navy Cloud COSMOS onboarding platform**, building backend services and cloud infrastructure using AWS.
 
-My previous jobs an AI Research Contract with my University in partnership with Horn Point Labatories where I worked on developing LLM pipelines with LangChain in this role I focused on backend development creating initial pipelines such as a chatbot and personally developeed a Markdown document generator to simplify and collect information from a large set of interview transcripts relating to Salt Concentration of Water. I have also worked as the Assistant to my universities System Adminstrator where I setup new computer labs as well as coding Pytorch based LLM benchmarks to be ran on Salisbury & UMBC High Performance Computer Systems. Lastly, I worked 2 tutoring postions as both a dedicated Computer Science tutor for the entire CS department course catalog and a Math & Computer Science tutor which included teaching Salisbury's entry level Math and Computer Science positions.
+Previously worked in **AI research in collaboration with Horn Point Laboratories (University partnership)** developing LLM pipelines with LangChain, building data-processing tools for large research datasets. Also served as a **Computer Science and Mathematics tutor** across Salisbury University's course catalog.
 
-In my 4 years of Coding and 2 years of Software Development I have managed an impressive list of accomplishments including having won winning 2 hackathons
+🏆 **Hackathon Awards**
 
-- HenHack 2024 (Bank of America's Best Financial Hack) - Lambda Check
-- HackUMBC 2024 (Best Educational Hack & Second Best Overall Hack) - Testif.AI
+* **HenHack 2024** – Bank of America's *Best Financial Hack* (Lambda Check)
+* **HackUMBC 2024** – *Best Educational Hack & 2nd Best Overall* (Testif.AI)
 
-As well as participating in HenHack 2025 & HoyaHacks 2025. Alongside this I also was awarded as a Certified Cloud Practitioner by AWS via the AWS Skill builder program where I learned a lot of the fundamental services provided by the Amazon Cloud Provider. I am also a repeately been on Salisbury's Dean's List graduating with a final GPA of 3.608.
+🎓 **B.S. Computer Science & Data Science – Salisbury University**
+☁️ **AWS Certified Cloud Practitioner**
+
 
 ### Feel Free to Contact me at
 
