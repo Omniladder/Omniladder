@@ -60,7 +60,7 @@ Previously worked in **AI research in collaboration with Horn Point Laboratories
 
 - Email: [dustintobrien@gmail.com](mailto:dustintobrien@gmail.com)
 
-- Phone Number: [(240) 678-3366](tel:+12406783366)
+- Phone Number: [(240) 981-0900](tel:+12409810900)
 
 - Personal Website / Portfolio: [dustintobrien.com](https://dustintobrien.com)
 
@@ -106,6 +106,7 @@ Previously worked in **AI research in collaboration with Horn Point Laboratories
     - Docker Compose
     - Jenkins
     - Github Actions
+    - Gitlab CI
     - Kubernetes / k8s
     - AWS
       - EC2
@@ -114,10 +115,13 @@ Previously worked in **AI research in collaboration with Horn Point Laboratories
       - RDS
       - Elasticache
       - Cloudfront
+      - DynamoDB
+      - CDK
     - Nginx
-    - Git / Github
+    - Git / Github / Gitlab
 - Linux
     - Proxmox
+    - NixOS Setup
     - Arch
     - Debian
     - Ubuntu
@@ -255,13 +259,12 @@ Previously worked in **AI research in collaboration with Horn Point Laboratories
 # Future Plans and Ideas
 
 - DevOps/Linux
-    - NixOS Setup
     - Linux from Scratch
     - Terraform Usage
-    - Gitlab
     - Virtual Machines (VM)
     - AWS Certified Cloud Architect
     - Cypress
+    - Application Layer Cloud Networking 
 - Web Development
     - Web Sockets
     - .NET Framework
@@ -274,6 +277,12 @@ Previously worked in **AI research in collaboration with Horn Point Laboratories
     - Ramanujan Based Pi Calculation
     - Improved Chess Bot
     - Cryptography
+- Subjects
+    - Real Analysis
+    - Abstract Algebra
+    - Game Theory
+    - Theoritical Economics
+    - Behavorial Economics
 - Misc.
     - Coding Paradigms
     - Capture the Flag
